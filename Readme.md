@@ -1,2 +1,3 @@
 # GitHub
-Este é um repositorio teste
+Este é um repositorio test.
+Saiba mais no Udemy.com
